@@ -1190,9 +1190,25 @@ footer ul li {
         margin-bottom: 60px;
     }
 
+    .hero{
+        height: 73vh;
+    }
+
     .info-content h2 {
         margin: unset;
         font-size: 40px;
+    }
+
+    .top-down .btn-flat{
+        margin-top: 20px;
+    }
+
+    .slide-controll .slide-next{
+        left: 20px;
+    }
+
+    .slide-controll .slide-prev{
+        right: 50px;
     }
 
     .promotion {
