@@ -1203,12 +1203,20 @@ footer ul li {
         margin-top: 20px;
     }
 
-    .slide-controll .slide-next{
-        left: 20px;
+    .slide-next {
+        right: 110px;
+    }
+    
+    .slide-prev {
+        left: 110px;
     }
 
-    .slide-controll .slide-prev{
-        right: 50px;
+    .slider:hover .slide-next {
+        right: 110px;
+    }
+    
+    .slider:hover .slide-prev {
+        left: 110px;
     }
 
     .promotion {
